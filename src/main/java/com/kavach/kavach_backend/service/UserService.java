@@ -2,6 +2,7 @@ package com.kavach.kavach_backend.service;
 
 import com.kavach.kavach_backend.model.User;
 import com.kavach.kavach_backend.repository.UserRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
