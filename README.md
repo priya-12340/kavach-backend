@@ -24,7 +24,7 @@ Built for **HackHazards '26**
 
 **Kavach** (Hindi for "shield/armor") is a safety-first platform designed to give women a fast, reliable way to signal distress, preserve evidence, and get support — all in one place. This repo is the **backend**: a Spring Boot REST API that powers authentication, SOS alerting, evidence storage, and an integrated AI assistant.
 
-🔗 **Frontend repo:** [kavach-frontend](https://github.com/priya-12340/kavach-frontend)
+🔗 **Frontend repo:** [kavach-frontend](https://github.com/priya-12340/Kavach)
 
 ---
 
@@ -161,7 +161,7 @@ The API will be live at `http://localhost:8080`.
 
 ## 🔗 Related Repos
 
-- **Frontend (React.js):** [kavach-frontend](https://github.com/priya-12340/kavach-frontend)
+- **Frontend (React.js):** [kavach-frontend](https://github.com/priya-12340/Kavach)
 
 ---
 
